@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Setting>365_Radio</Setting>
+    <Value>Outlook 365</Value>
+  </Settings>
+  <Settings>
+    <Setting>Client_Radio</Setting>
+    <Value>Outlook Client</Value>
+  </Settings>
+  <Settings>
+    <Setting>365_Text</Setting>
+    <Value>For most people, or if you are not sure, select this option</Value>
+  </Settings>
+  <Settings>
+    <Setting>Client_Text</Setting>
+    <Value>For some people in fixed offices or with multiple mailboxes</Value>
+  </Settings>
+  <Settings>
+    <Setting>Title</Setting>
+    <Value>Open mail link</Value>
+  </Settings>
+  <Settings>
+    <Setting>Remember</Setting>
+    <Value>Don't ask again</Value>
+  </Settings>
+  <Settings>
+    <Setting>Main_Text</Setting>
+    <Value>Please select how you wish to open mail links</Value>
+  </Settings>
+</NewDataSet>
